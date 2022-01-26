@@ -1,5 +1,7 @@
 # Reference architectures for extending your Active Directory environment to Azure
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/90fe2f00-c177-4ff9-b5ad-47c4be3a29f0.svg?orgId=568518005652)](https://app.soluble.cloud/repos/details/github.com/marcosgm/identity-reference-architectures?orgId=568518005652)  
+
 For guidance see the article [Choose a solution for integrating on-premises Active Directory with Azure](https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/identity/).
 
 For each option, a more detailed reference architecture is available.
